@@ -1,0 +1,9 @@
+book_filename: "my-r-book"
+delete_merged_file: true
+output_dir: "_book"
+rmd_files:
+  - index.Rmd
+  - 01-intro.Rmd
+  - 02-methods.Rmd
+  - 03-results.Rmd
+  - 04-conclusion.Rmd
