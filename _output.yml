@@ -3,7 +3,4 @@ bookdown::gitbook:
   config:
     toc:
       collapse: section
-    toolbar:
-      position: fixed
     download: ["pdf", "epub"]
-    search: true
