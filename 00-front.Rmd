@@ -1,0 +1,25 @@
+<div style="text-align: center; padding-top: 100px;">
+
+# **Virtual Reality in Psychological Research**
+
+### An open-access book on immersive psychology
+
+**Sarunė Savickaitė-Exeter**  
+University of Exeter  
+March 2025
+
+</div>
+
+---
+
+**About the Author**
+
+*Sarunė Savickaitė-Exeter* is a researcher and educator passionate about the intersection of psychology, virtual environments, and inclusive education. She works with XR technologies and is committed to accessible, neurodiverse-friendly learning.
+
+---
+
+**Chapters**
+
+- [Introduction](01-intro.html)  
+- [Hardware](02-hardware.html)  
+- [Software](03-software.html)

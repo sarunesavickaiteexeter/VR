@@ -1,4 +1,6 @@
-welcome
+virtual-reality-in-psychological-research
+an-open-access-book-on-immersive-psychology
 introduction
 hardware
 software
+welcome
