@@ -2,3 +2,10 @@ bookdown::gitbook:
   css: style.css
   includes:
     in_header: font-header.html
+  config:
+    toc:
+      collapse: section
+    download: ["pdf", "epub"]
+    toolbar:
+      position: fixed
+    search: true
