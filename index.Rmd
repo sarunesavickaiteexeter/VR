@@ -1,12 +1,19 @@
----
-title: "My R Book"
-author: "Your Name"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: book
+# Virtual Reality in Psychological Research
+
+Welcome to **Virtual Reality in Psychological Research**, an open-access resource exploring how VR is used in psychology. This book introduces key concepts, methodologies, and case studies to support learners and researchers engaging with immersive technology.
+
 ---
 
-# Introduction
+## About the Author
 
-Welcome to my book! This book was created using **Bookdown**.
+*Sarunė Savickaitė-Exeter* is a researcher and educator passionate about the intersection of psychology, virtual environments, and inclusive education. She works with XR technologies and is committed to accessible, neurodiverse-friendly learning.
 
+---
+
+## Chapters
+
+
+
+---
+
+This book was built using the **Bookdown** package in R and published via **GitHub Pages**.
