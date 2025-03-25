@@ -1,7 +1,7 @@
 bookdown::gitbook:
   css: style.css
   includes:
-    in_header: font-header.html  # Optional: only if you're loading custom fonts like Work Sans
+    in_header: font-header.html  # optional, only if you use Google Fonts
   config:
     toc:
       collapse: section
@@ -10,3 +10,5 @@ bookdown::gitbook:
     download: ["pdf", "epub"]
     search: true
     edit: null
+  number_sections: false       # ❌ disables automatic numbering
+  date: ""                     # ❌ disables printed date
