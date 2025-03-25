@@ -1,8 +1,8 @@
 bookdown::gitbook:
   css: style.css
   includes:
-    in_header: font-header.html  # optional
-  number_sections: false         # ✅ disables chapter numbering
+    in_header: font-header.html  # Remove this line if you don’t use custom fonts
+  number_sections: false
   config:
     toc:
       collapse: section
@@ -10,4 +10,3 @@ bookdown::gitbook:
       position: fixed
     download: ["pdf", "epub"]
     search: true
-    edit: null
