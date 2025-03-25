@@ -7,16 +7,16 @@ number_sections: false
 date: ""
 ---
 
-# Virtual Reality in Psychological Research
+** Virtual Reality in Psychological Research ** 
 
 Welcome to **Virtual Reality in Psychological Research**, an open-access resource exploring how VR is used in psychology. This book introduces key concepts, methodologies, and case studies to support learners and researchers engaging with immersive technology.
 
-## About the Author
+** About the Author **
 
 *Sarune Savickaite* is a researcher and educator passionate about the intersection of psychology, virtual environments, and inclusive education. She works with XR technologies and is committed to accessible, neurodiverse-friendly learning.
 
 
-## Chapters
+** Chapters **
 
 [Introduction](01-intro.html)  
 [Hardware](02-hardware.html)  
