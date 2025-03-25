@@ -1,20 +1,6 @@
-<div style="text-align: center; padding-top: 100px;">
+Welcome to **Virtual Reality in Psychological Research**, an open-access resource exploring how VR is used in psychology.  
 
-# **Virtual Reality in Psychological Research**
-
-### An open-access book on immersive psychology
-
-**Sarunė Savickaitė-Exeter**  
-University of Exeter  
-March 2025
-
-</div>
-
----
-
-**About the Author**
-
-*Sarunė Savickaitė-Exeter* is a researcher and educator passionate about the intersection of psychology, virtual environments, and inclusive education. She works with XR technologies and is committed to accessible, neurodiverse-friendly learning.
+This book introduces key concepts, methodologies, and case studies to support learners and researchers engaging with immersive technology.
 
 ---
 
