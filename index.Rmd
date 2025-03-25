@@ -12,7 +12,10 @@ Welcome to **Virtual Reality in Psychological Research**, an open-access resourc
 
 ## Chapters
 
-
+[Introduction](01-intro.html)  
+[Hardware](02-hardware.html)  
+[Software](03-software.html)  
+[Design](04-design.html)  
 
 ---
 

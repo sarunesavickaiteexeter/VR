@@ -1,9 +1,9 @@
-book_filename: "my-r-book"
-delete_merged_file: true
+book_filename: "vr-book"
 output_dir: "_book"
 rmd_files:
   - index.Rmd
   - 01-intro.Rmd
-  - 02-methods.Rmd
-  - 03-results.Rmd
-  - 04-conclusion.Rmd
+  - 02-hardware.Rmd
+  - 03-software.Rmd
+  - 04-design.Rmd
+
