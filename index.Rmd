@@ -7,6 +7,8 @@ number_sections: false
 date: ""
 ---
 
+# Welcome 
+
 Welcome to **Virtual Reality in Psychological Research**, an open-access resource exploring how VR is used in psychology.
 
 This book introduces key concepts, methodologies, and case studies to support learners and researchers engaging with immersive technology.
