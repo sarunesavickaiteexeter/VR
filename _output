@@ -1,0 +1,4 @@
+bookdown::gitbook:
+  css: style.css
+  includes:
+    in_header: font-header.html
