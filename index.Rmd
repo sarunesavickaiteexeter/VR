@@ -7,7 +7,7 @@ number_sections: false
 date: ""
 ---
 
-# Welcome 
+# Welcome
 
 Welcome to **Virtual Reality in Psychological Research**, an open-access resource exploring how VR is used in psychology.
 
