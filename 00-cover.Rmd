@@ -1,22 +1,24 @@
-<!-- COVER PAGE -->
+<!-- 00-cover.Rmd -->
 
-<div style="text-align: center; padding-top: 100px;">
+<div style="text-align: center; padding-top: 150px;">
 
 # **Virtual Reality in Psychological Research**
 
 ### An Introduction to Methods and Applications in Psychology
 
-<br>
+<br><br>
 
-**Sarune Savickaite**  
-University of Exeter
+**Sarunė Savickaitė-Exeter**  
+University of [Your Institution]  
 March 2025
 
 <br><br>
 
-<img src="cover.png" alt="cover image" style="width: 300px;">
+<!-- Optional image/logo -->
+<!-- <img src="cover.png" style="width: 200px;"> -->
 
 </div>
 
----
-
+<!-- suppress TOC and numbering -->
+```{r, echo=FALSE}
+knitr::opts_chunk$set(eval = FALSE)

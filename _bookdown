@@ -8,3 +8,15 @@ rmd_files:
   - 03-software.Rmd
   - 04-design.Rmd
 
+
+✅ Do **not** include YAML at the top (`--- title:` etc.)  
+✅ Do **not** include `# 04-design` — that’s what’s showing up now
+
+---
+
+### 🛠️ Step 3: Re-render & Push
+
+In the **R Console**:
+
+```r
+bookdown::render_book("index.Rmd", "bookdown::gitbook")
