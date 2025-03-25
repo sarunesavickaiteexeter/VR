@@ -1,11 +1,12 @@
 bookdown::gitbook:
   css: style.css
   includes:
-    in_header: font-header.html
+    in_header: font-header.html  # Optional: only if you're loading custom fonts like Work Sans
   config:
     toc:
       collapse: section
-    download: ["pdf", "epub"]
     toolbar:
       position: fixed
+    download: ["pdf", "epub"]
     search: true
+    edit: null

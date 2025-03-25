@@ -1,22 +1,8 @@
 book_filename: "vr-book"
 output_dir: "_book"
 rmd_files:
-  - 00-cover.rmd
   - index.Rmd
   - 01-intro.Rmd
   - 02-hardware.Rmd
   - 03-software.Rmd
   - 04-design.Rmd
-
-
-✅ Do **not** include YAML at the top (`--- title:` etc.)  
-✅ Do **not** include `# 04-design` — that’s what’s showing up now
-
----
-
-### 🛠️ Step 3: Re-render & Push
-
-In the **R Console**:
-
-```r
-bookdown::render_book("index.Rmd", "bookdown::gitbook")

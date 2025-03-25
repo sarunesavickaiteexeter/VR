@@ -1,5 +1,3 @@
-<!-- Load Work Sans from Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
 
 # Virtual Reality in Psychological Research
 
@@ -9,7 +7,7 @@ Welcome to **Virtual Reality in Psychological Research**, an open-access resourc
 
 ## About the Author
 
-*Sarunė Savickaitė-Exeter* is a researcher and educator passionate about the intersection of psychology, virtual environments, and inclusive education. She works with XR technologies and is committed to accessible, neurodiverse-friendly learning.
+*Sarune Savickaite* is a researcher and educator passionate about the intersection of psychology, virtual environments, and inclusive education. She works with XR technologies and is committed to accessible, neurodiverse-friendly learning.
 
 ---
 
