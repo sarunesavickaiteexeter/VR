@@ -1,3 +1,7 @@
 virtual-reality-in-psychological-research
 about-the-author
 chapters
+introduction
+hardware
+software
+design
