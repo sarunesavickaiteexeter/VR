@@ -1,6 +1,6 @@
 book_filename: "vr-book"
 output_dir: "_book"
 rmd_files:
-  - 00-front.Rmd
+  - index.Rmd        # ← now your landing page
   - 02-hardware.Rmd
   - 03-software.Rmd
