@@ -1,0 +1,22 @@
+<!-- COVER PAGE -->
+
+<div style="text-align: center; padding-top: 100px;">
+
+# **Virtual Reality in Psychological Research**
+
+### An Introduction to Methods and Applications in Psychology
+
+<br>
+
+**Sarune Savickaite**  
+University of Exeter
+March 2025
+
+<br><br>
+
+<img src="cover.png" alt="cover image" style="width: 300px;">
+
+</div>
+
+---
+
