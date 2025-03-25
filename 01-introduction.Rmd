@@ -1,0 +1,7 @@
+# Introduction
+
+** What is Virtual Reality? **
+
+Defining Virtual Reality can be as complex as the experience itself. VR systems are intricate combinations of technology and human perception. It is commonly described as an artificial environment controlled, at least partially, by user interactions, experienced through computer-generated sensory input such as sights and sounds. A simpler definition characterizes VR as an artificial environment experienced through various senses, created by a computer and accessed through a display, most commonly a Head-Mounted Display (HMD). An HMD consists of large glasses that project two separate images, one to each eye, creating the convincing illusion of a three-dimensional scene surrounding the user. In addition to cutting-edge graphics, a VR system typically includes one or more input devices such as controllers, gloves, or motion trackers.
+
+ ![](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fmoodle.gla.ac.uk%2F&embeds_referring_origin=https%3A%2F%2Fmoodle.gla.ac.uk&source_ve_path=Mjg2NjQsMTY0NTAz&v=akveRNY6Ulw&feature=youtu.be) 
