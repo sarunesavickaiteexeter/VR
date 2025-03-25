@@ -1,14 +1,13 @@
-
 ---
 title: "Virtual Reality in Psychological Research"
-author: "Sarune Savickaite"
+author: "Sarunė Savickaitė-Exeter"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
-documentclass: book
-number_sections: false    # optional redundancy
+number_sections: false
+date: ""
 ---
 
-# Virtual Reality in Psychological Research
+## Virtual Reality in Psychological Research
 
 Welcome to **Virtual Reality in Psychological Research**, an open-access resource exploring how VR is used in psychology. This book introduces key concepts, methodologies, and case studies to support learners and researchers engaging with immersive technology.
 
@@ -25,7 +24,6 @@ Welcome to **Virtual Reality in Psychological Research**, an open-access resourc
 [Introduction](01-intro.html)  
 [Hardware](02-hardware.html)  
 [Software](03-software.html)  
-[Design](04-design.html)  
 
 ---
 

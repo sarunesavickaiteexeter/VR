@@ -4,4 +4,3 @@ chapters
 introduction
 hardware
 software
-design

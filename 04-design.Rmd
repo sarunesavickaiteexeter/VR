@@ -1,8 +1,0 @@
----
-title: "04-design"
-author: "Sarune Savickaite"
-date: "2025-03-25"
-output: html_document
----
-
-# Design
