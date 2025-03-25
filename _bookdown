@@ -1,7 +1,7 @@
 book_filename: "vr-book"
 output_dir: "_book"
 rmd_files:
-  - 00-front.Rmd
+  - 00-landing.Rmd
   - 01-intro.Rmd
   - 02-hardware.Rmd
   - 03-software.Rmd
