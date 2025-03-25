@@ -1,0 +1,12 @@
+---
+title: "My R Book"
+author: "Your Name"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Introduction
+
+Welcome to my book! This book was created using **Bookdown**.
+
