@@ -1,8 +1,1 @@
----
-title: "02-hardware"
-author: "Sarune Savickaite"
-date: "2025-03-25"
-output: html_document
----
-
 # Hardware
